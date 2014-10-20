@@ -121,14 +121,9 @@ footer {
 		float: right;
 	}
 	
-	#footerLeft {
-		width: 82.63157894736842%; /*942 / 1140*/
-		float: left;
-	}
-	
 	#footerRight {
 		margin-top: 0px;
-		width: 13.50877192982456%; /*154 / 1140*/
+		width: 100%; /*1140*/
 		float: right;
 	}
 }
